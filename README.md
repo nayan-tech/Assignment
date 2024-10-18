@@ -14,7 +14,7 @@ Assignment Overview --
 4. Your task is to dockerize the application and then  deploy the  Ruby on Rails application and provide a  URL to access the app.
 
 
-Refernces -
+References -
 1. You can install Ruby using a version manager like rbenv or RVM.
    rbenv install 3.3.0
   refer - https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04
