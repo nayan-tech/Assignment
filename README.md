@@ -3,7 +3,7 @@
 
 * Ruby version - 3.3.0
 * Rails - 7.1.3
-* System Dependencies - Nodejs , Postgresql , yarn , bundler , git
+* System Dependencies - Nodejs(16+) , Postgresql , yarn , bundler , git
 * any desk , ssh 
 Assignment --
 1. Set up ssh via any-desk
