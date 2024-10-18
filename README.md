@@ -31,7 +31,7 @@ Refernces -
 6. Bundler
   gem install bundler
 
-Running the app locally - Once all the above dependencies are installed, you can follow these steps to run the app:
+Running the app locally - Once all the above dependencies are installed, you can follow these steps to run the app: refer - https://www.digitalocean.com/community/tutorials/how-to-build-a-ruby-on-rails-application-on-ubuntu-22-04
 1. Clone the repository:  git clone <repo-url>
 2. Install Ruby dependencies:   bundle install
 3. Install JavaScript dependencies: yarn install
