@@ -4,7 +4,9 @@
 * Ruby version - 3.3.0
 * Rails - 7.1.3
 * System Dependencies - Nodejs(16+) , Postgresql , yarn , bundler , git
-* any desk , ssh 
+* any desk , ssh
+
+  
 Assignment --
 1. Set up ssh via any-desk
 2. To run a rails app locally - command > rails s
