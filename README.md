@@ -38,6 +38,7 @@ Running the app locally - Once all the above dependencies are installed, you can
 3. Install JavaScript dependencies: yarn install
 4. Run the Rails server: rails s
 5. Access the application:  Open http://localhost:3000 in your browser to see the running Rails app.
+6. Use Apache, nginx or any other tool to route your localhost to the web server.
 
 
 
